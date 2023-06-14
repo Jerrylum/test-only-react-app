@@ -11,5 +11,5 @@
     "imageSize": 100,
     "skipCi": true,
     "commit": false,
-    "commitConvention": "gitmoji"
+    "commitConvention": "none"
 }

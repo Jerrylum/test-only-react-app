@@ -1,0 +1,15 @@
+{
+    "contributors": [],
+    "contributorsPerLine": 7,
+    "projectName": "path.jerryio",
+    "projectOwner": "jerrylum",
+    "repoType": "github",
+    "repoHost": "https://github.com",
+    "files": [
+        "README.md"
+    ],
+    "imageSize": 100,
+    "skipCi": true,
+    "commit": false,
+    "commitConvention": "gitmoji"
+}

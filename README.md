@@ -1,6 +1,8 @@
 [![All Contributors](https://img.shields.io/github/all-contributors/Jerrylum/test-only-react-app?color=ee8449&style=flat-square)](#contributors)
 
-https://github.com/Jerrylum/test-only-react-app/blob/main/public/editor-demo1.mp4?raw=true
+https://github.com/Jerrylum/path.jerryio/assets/12783829/3df58e91-2363-4585-abcb-956c335aa5e5.mp4
+
+https://github.com/Jerrylum/path.jerryio/assets/12783829/3df58e91-2363-4585-abcb-956c335aa5e5
 
 
 ## Contributors

@@ -71,6 +71,7 @@
     "start": "craco start",
     "build": "craco build",
     "test": "craco test",
+    "test-coverage": "craco test --collectCoverage --watchAll",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
